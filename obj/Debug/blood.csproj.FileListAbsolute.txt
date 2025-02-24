@@ -1,0 +1,48 @@
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\blood.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.AddNewDonor.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.AllDonorDetails.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Dashboard.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.DeleteDonor.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.SearchBloodDonorAddress.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.SearchDonorByBlood.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.StockIncrease.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.UpdateDonorDetails.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\blood.csproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.stockDecrease.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Login.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.stockDetails.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.exe.manifest
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.application
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.TrustInfo.xml
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.exe.manifest
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.application
+E:\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+E:\BloodBank\BloodBank\bin\Debug\BloodBank.exe.manifest
+E:\BloodBank\BloodBank\bin\Debug\BloodBank.application
+E:\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+E:\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+E:\BloodBank\BloodBank\obj\Debug\blood.csprojResolveAssemblyReference.cache
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.AddNewDonor.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.AllDonorDetails.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.Dashboard.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.DeleteDonor.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.Login.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.SearchBloodDonorAddress.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.SearchDonorByBlood.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.stockDecrease.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.stockDetails.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.StockIncrease.resources
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.UpdateDonorDetails.resources
+E:\BloodBank\BloodBank\obj\Debug\blood.csproj.GenerateResource.Cache
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.TrustInfo.xml
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.exe.manifest
+E:\BloodBank\BloodBank\obj\Debug\BloodBank.application

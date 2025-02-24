@@ -1,0 +1,17 @@
+c:\users\dell\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+c:\users\dell\documents\visual studio 2012\Projects\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+c:\users\dell\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Form1.resources
+c:\users\dell\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+c:\users\dell\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
+c:\users\dell\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.Dashboard.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.AddNewDonor.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.UpdateDonorDetails.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.AllDonorDetails.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.SearchBloodDonorAddress.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.SearchDonorByBlood.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.StockIncrease.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\BloodBank\BloodBank\obj\Debug\BloodBank.DeleteDonor.resources
