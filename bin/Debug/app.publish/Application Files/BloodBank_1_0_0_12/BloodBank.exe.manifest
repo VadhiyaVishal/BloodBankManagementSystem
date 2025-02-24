@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="BloodBank.exe" version="1.0.0.12" publicKeyToken="f3c860adbe635a86" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BloodBank" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="BloodBank.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BloodBank.exe" size="1631744">
+      <assemblyIdentity name="BloodBank" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>OsP4ETgcoBQnKkmJfteJM0pqD403dRyFDO82/OnyiqU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="XanderUI.dll" size="189440">
+      <assemblyIdentity name="XanderUI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zfL/jAlw9BRFAMgcVngFXe1wwFKFuj0/8E5E+njZzmQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BloodBank.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-KJ051OE\DELL" issuerKeyHash="b08c704798961fa30fb7884711574aa65f6b6a7c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Q2xEWF2AtZyNfAVmDiqD63f3YijskYQ83U1n7KmRt3U=</DigestValue></Reference></SignedInfo><SignatureValue>qcFwfKCosTQ2oqeIPsnaFr17OVOwopq20r98wSxdUqYz9YIVhsdr2F+nLAhR/emq+t5mhsUsLcFQAHTWF83oA9qWKSQC1NSCbdOABLScrbdE+zUDw65EOiqgdhiam9QvI+zHCmKL0M7BZZR1rMmedocewMEWe2ls1B5n1WZBWmE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vCwYHIFOuWpL3hsvmUNpx3shGZvu4Z7l9OF5wpWqU7lLUaJ/vZYm2WTYLO2BOBN9c2KJBDu1bDVp1rNtC/ldjO7wLeJ0uj5C8eMkWQ5Bjn/do8pltFYOMJ0no3xwWFjg/MkCrvz1cmL6UZ9Z2YMpjOLBwSkQhZjH252ZyTqa0IE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="75b791a9ec674ddd3c8491ec2862f777eb832a0e66057c8d9cb5805d58446c43" Description="" Url=""><as:assemblyIdentity name="BloodBank.exe" version="1.0.0.12" publicKeyToken="f3c860adbe635a86" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-KJ051OE\DELL</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LEjk2BaWPv2XscQ5UE+MzyiRGXH0PH4n1G9HQfGjpVs=</DigestValue></Reference></SignedInfo><SignatureValue>pivYrU0DCP4feNi6d1g9oJZTH74nZm+eIiQlGvWwG1LUoSlqDSbDXKv+oPOFvRWs2sEHWO2wzOZi+uBWhvuFcsyembXzSzLKaBNxMWgFS3/CRfGARCglVE7X2Sy/sb3Ih9b3SzOiRWa+6FPF5hXi7RBsW9D4LAx7UFoufcA8tbc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vCwYHIFOuWpL3hsvmUNpx3shGZvu4Z7l9OF5wpWqU7lLUaJ/vZYm2WTYLO2BOBN9c2KJBDu1bDVp1rNtC/ldjO7wLeJ0uj5C8eMkWQ5Bjn/do8pltFYOMJ0no3xwWFjg/MkCrvz1cmL6UZ9Z2YMpjOLBwSkQhZjH252ZyTqa0IE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQRwLleSBc55JNhQcV4h8wCDANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAEsASgAwADUAMQBPAEUAXABEAEUATABMMB4XDTI0MDkxMjEwMTAxNVoXDTI1MDkxMjE2MTAxNVowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBLAEoAMAA1ADEATwBFAFwARABFAEwATDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvCwYHIFOuWpL3hsvmUNpx3shGZvu4Z7l9OF5wpWqU7lLUaJ/vZYm2WTYLO2BOBN9c2KJBDu1bDVp1rNtC/ldjO7wLeJ0uj5C8eMkWQ5Bjn/do8pltFYOMJ0no3xwWFjg/MkCrvz1cmL6UZ9Z2YMpjOLBwSkQhZjH252ZyTqa0IECAwEAATANBgkqhkiG9w0BAQsFAAOBgQAV/budv6KYkBbWWH+GxUBKOqD2ANEVkSdgufiICeP9C9hkduRvGiURhTgrg+aijM/u17Ffgs3VP+Mf9opzCw32oy4mwZGHM4jLHxXa4JDtRRI1GGSTRtdLUocBOt3ke3sc1dmecfAuet9R5Ki8c47fABRDpvTYW+OfuxJQcQY3fg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
